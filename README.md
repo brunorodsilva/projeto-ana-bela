@@ -1,4 +1,4 @@
-# Digital Inovation One - Projeto Clone Netflix
+# Projeto modelo Anna Bella
 
 ### Projeto Digital Innovation One - Desafio de recriar a interface da Netflix
 #### Veja como ficou o projeto através do GitHub Pages: <br/>
